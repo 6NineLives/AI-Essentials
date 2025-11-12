@@ -245,7 +245,7 @@ Please avoid:
 
 - **General Questions**: [Open a Discussion](https://github.com/6NineLives/AI-Essentials/discussions)
 - **Bug Reports**: [Open an Issue](https://github.com/6NineLives/AI-Essentials/issues)
-- **Security Issues**: Email (see SECURITY.md if available)
+- **Security Issues**: See [SECURITY.md](./SECURITY.md)
 
 ## 📜 Code of Conduct
 

@@ -1,0 +1,23 @@
+{ 
+  "name": "ai-essentials",
+  "version": "1.0.0",
+  "description": "AI Essentials - Community-driven AI learning directory with runnable examples",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running examples...\" && node 04_MCP/client_example.js || true"
+  },
+  "keywords": ["ai", "machine-learning", "llm", "rag", "agents", "vector-database", "mcp", "prompt-engineering"],
+  "author": "6NineLives",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0",
+    "openai": "^4.20.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
